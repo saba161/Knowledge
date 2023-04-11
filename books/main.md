@@ -20,6 +20,9 @@
 ### Javascript
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
+### Design Patterns
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
 ### FP
 - [Functional C# 10](https://app.pluralsight.com/library/courses/c-sharp-10-functional/table-of-contents)
 
