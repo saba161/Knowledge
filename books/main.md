@@ -1,5 +1,4 @@
 # books
-- [Pro_ASP.NET_Core_3_(2020)](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications-ebook/dp/B08C6YX7Z2)
 
 ### C#
 - [C-4.0-полное-руководство-Герберт-Шилдт_2011](https://www.amazon.com/4-0-Definitive-Guide-polnoe-rukovodstvo/dp/5845916844/ref=sr_1_7?qid=1681202650&refinements=p_27%3AGerbert+Shildt&s=books&sr=1-7)
@@ -10,6 +9,7 @@
 - []
 
 ### .NET
+- [Pro_ASP.NET_Core_3_(2020)](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications-ebook/dp/B08C6YX7Z2)
 - [ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
 - [Building Web Applications with ASP.NET Core 3 and 5 MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
 - [Building an API with ASP.NET Core 5](https://app.pluralsight.com/library/courses/building-api-aspdotnet-core/table-of-contents)
