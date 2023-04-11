@@ -6,7 +6,6 @@
 - [Object-Oriented Programming Fundamentals](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)
 - [SOLID Principles for C# Developers](https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents)
 - [Making Your C# 6 Code More Object-oriented](https://app.pluralsight.com/library/courses/c-sharp-code-more-object-oriented/table-of-contents)
-- []
 
 ### .NET
 - [Pro_ASP.NET_Core_3_(2020)](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications-ebook/dp/B08C6YX7Z2)
