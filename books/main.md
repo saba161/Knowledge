@@ -10,6 +10,10 @@
 - []
 
 ### .NET
+- [ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
+- [Building Web Applications with ASP.NET Core 3 and 5 MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
+- [Building an API with ASP.NET Core 5](https://app.pluralsight.com/library/courses/building-api-aspdotnet-core/table-of-contents)
+- [ASP.NET Core 3.0: The MVC Request Life Cycle](https://app.pluralsight.com/library/courses/aspnet-core-3-mvc-request-life-cycle/table-of-contents)
 - [Pro ASP.NET MVC 5 - Adam Freeman](https://g.co/kgs/qnpw6w)
 - [Getting Started with Dependency Injection in .NET 2](https://app.pluralsight.com/library/courses/using-dependency-injection-on-ramp/table-of-contents)
 - [Entity Framework Core 5: Getting Started](https://app.pluralsight.com/library/courses/entity-framework-core-get-started/table-of-contents)
@@ -18,9 +22,6 @@
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ### FP
-- [Structure and Interpretation of Computer Programs - Gerald Jay Sussman and Hal Abelson](https://g.co/kgs/wjDULn) 
-- [How to Design Programs - Matthew Flatt, Matthias Felleisen, Robert Bruce Findler, and Shriram Krishnamurthi](https://g.co/kgs/eVceHN)
-- [Types and Programming Languages - Benjamin C. Pierce](https://g.co/kgs/aX4rFS)
-- [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/)
+- [Functional C# 10](https://app.pluralsight.com/library/courses/c-sharp-10-functional/table-of-contents)
 
 # Want to read
