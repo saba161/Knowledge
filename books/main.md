@@ -1,4 +1,4 @@
-# books
+# books and courses
 
 ### C#
 - [C-4.0-полное-руководство-Герберт-Шилдт_2011](https://www.amazon.com/4-0-Definitive-Guide-polnoe-rukovodstvo/dp/5845916844/ref=sr_1_7?qid=1681202650&refinements=p_27%3AGerbert+Shildt&s=books&sr=1-7)
